@@ -1,10 +1,9 @@
 # fuzzy-system
-## Personal Cheatsheets
+My personal cheatsheets
 
-To run Gather_Hardware_Windows.ps1
+## To run Gather_Hardware_Windows.ps1
 
-```
+```powershell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\GetHardwareInfo.ps1
 ```
-
